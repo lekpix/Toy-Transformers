@@ -1,8 +1,9 @@
+postgres_pwd.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-postgres_pwd.py
+
 # C extensions
 *.so
 
